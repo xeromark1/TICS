@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+
+.desplegable{
+
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1%;
+
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  
+  }
+  
+  .marco{
+  
+
+    border: 1px solid #ccc;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+  
+    display: grid;
+  
+    padding: 1%;  
+    justify-items: center;
+
+  
+  }
+
+  :hover.marco{
+
+    /*background-color: rgb(255, 254, 239);*/
+    
+    border: 1px solid #ccc;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3);
+  
+    display: grid;
+  
+    padding: 1%;  
+    justify-items: center;
+  
+  }
+
+  .marco img {
+    max-width: 70%;
+    max-height: 70%;
+  }
