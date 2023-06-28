@@ -19,7 +19,7 @@
 
  /*box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);*/ 
 
- font-size: 1vw; /* Tamaño del texto en función del ancho de la ventana */
+ font-size: 1vw; /* Tamaï¿½o del texto en funciï¿½n del ancho de la ventana */
 
 
 }
@@ -27,7 +27,7 @@
 .blankfondimg{
 
   /*background-color: rgb(255, 254, 239);*/
-  font-size: 1vw; /* Tamaño del texto en función del ancho de la ventana */
+  font-size: 1vw; /* Tamaï¿½o del texto en funciï¿½n del ancho de la ventana */
 
   border: 1px solid #ccc;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
@@ -64,5 +64,40 @@
 
   width: 20%;
   
+
+}
+
+.descripcionmarco{
+  margin: 0%
+  
+}
+
+.especificaciones{
+
+  /*background-color: rgb(255, 241, 201);*/
+  /*border: 1px solid #ccc;*/
+  padding: 1%;
+  display: grid;
+
+ /*box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);*/ 
+
+ font-size: 1vw; /* Tamaï¿½o del texto en funciï¿½n del ancho de la ventana */
+
+
+
+}
+
+ .blankfondaux{
+
+  /*background-color: rgb(255, 241, 201);*/
+  /*border: 1px solid #ccc;*/
+  padding: 1%;
+  width: 100%;
+
+  
+ /*box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);*/ 
+
+ font-size: 2vw; /* Tamaï¿½o del texto en funciï¿½n del ancho de la ventana */
+
 
 }

@@ -32,7 +32,15 @@ h1{
   
 }
 
+
 h2{
+  text-align: center;
+
+  padding: 1%;
+
+  background-color: #c68f65;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+  color: rgb(67, 0, 0);
   text-align: center;
 }
 
